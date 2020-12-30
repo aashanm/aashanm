@@ -1,4 +1,4 @@
-# Hey there, thanks for stopping by <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there, thanks for stopping by! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img src = "github_banner.png" width="100%" title="Intro Card">
 
