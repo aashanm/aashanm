@@ -2,8 +2,6 @@
 
 <img src = "github_banner.png" width="100%" title="Intro Card">
 
-<br>
-
 ## About Me 👦
 I'm currently a **third-year student** studying [Honors Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
 
