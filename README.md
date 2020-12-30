@@ -5,11 +5,11 @@
 ## About Me 👦
 I'm currently a **third-year student** studying [Honors Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
 
-In the past, I've worked with: 
-* [Intact](https://www.intactfc.com/) - Data Scientist Intern 
-* [Manulife](https://www.manulife.ca/personal.html) - Data Engineering Intern 
-* [Manulife](https://www.manulife.ca/personal.html) - Technical Systems Analyst 
-* [KPMG](https://home.kpmg/xx/en/home.html) - Data Analytics Consulting Intern 
+In the past, I've worked with: 0
+* [Intact](https://www.intactfc.com/) - Data Scientist Intern *(Sep - Dec 2020)*
+* [Manulife](https://www.manulife.ca/personal.html) - Data Engineering Intern *(Jan - Apr 2020)*
+* [Manulife](https://www.manulife.ca/personal.html) - Technical Systems Analyst *(May - Aug 2019)*
+* [KPMG](https://home.kpmg/xx/en/home.html) - Data Analytics Consulting Intern *(Mar - Apr 2019)*
 
 ## Current Status ⌚
 * 🔭 I’m currently working on [Global Spark](https://globalspark.world/#/) as a Data Engineer and taking university courses in [Data Mining](https://uwaterloo.ca/management-sciences/msci-446-data-mining)
