@@ -5,7 +5,7 @@
 ## About Me 👦
 I'm currently a **third-year student** studying [Honors Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
 
-In the past, I've worked with: 0
+In the past, I've worked with:
 * [Intact](https://www.intactfc.com/) - Data Scientist Intern *(Sep - Dec 2020)*
 * [Manulife](https://www.manulife.ca/personal.html) - Data Engineering Intern *(Jan - Apr 2020)*
 * [Manulife](https://www.manulife.ca/personal.html) - Technical Systems Analyst *(May - Aug 2019)*
