@@ -25,5 +25,5 @@ I use LinkedIn for professional discussion:
 [![LinkedIn URL](https://img.shields.io/badge/-aashanm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashanm)](https://www.linkedin.com/in/aashanm/)
 
 ## Random Joke :innocent:
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23fafaf2&qColor=%236a6a69&aColor=%23f6716f&borderColor=%239cb4ca&theme="random"&textColor=%2377bbb8&)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23fafaf2&qColor=%236a6a69&aColor=%23f6716f&borderColor=%239cb4ca&theme="random"&textColor=%234d9995&)
 <!--- reference: https://github.com/ABSphreak/readme-jokes/blob/master/README.md --->
