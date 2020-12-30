@@ -21,4 +21,5 @@ In the past, I've worked with:
 * 📝 Check out my [resume](https://drive.google.com/file/d/1IijrNCfLWs_kp2SOC-XBsAPBTg2HumrA/view?usp=sharing) for more info
 
 ## Social Media 📭
-I use LinkedIn for professional discussion:  [![LinkedIn URL](https://img.shields.io/badge/-aashanm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashanm)](https://www.linkedin.com/in/aashanm/)
+I use LinkedIn for professional discussion:  
+[![LinkedIn URL](https://img.shields.io/badge/-aashanm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashanm)](https://www.linkedin.com/in/aashanm/)
