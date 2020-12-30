@@ -12,7 +12,7 @@ In the past, I've worked with:
 * [KPMG](https://home.kpmg/xx/en/home.html) - Data Analytics Consulting Intern *(Mar - Apr 2019)*
 
 ## Current Status ⌚
-* 🔭 I’m currently working on [Global Spark](https://globalspark.world/#/) as a Data Engineer and taking university courses in [Data Mining](https://uwaterloo.ca/management-sciences/msci-446-data-mining)
+* 🔭 I’m working on [Global Spark](https://globalspark.world/#/) as a Data Engineer and taking university courses in [Data Mining](https://uwaterloo.ca/management-sciences/msci-446-data-mining)
 * 🌱 I’m learning more about **NLP** and its growing industry applications
 * 👯 I’m looking to collaborate on compelling projects within the **ML/DS space**
 * 🤔 I’m seeking future **internship opportunities** where I can apply my acquired arsenal of skills
