@@ -3,22 +3,22 @@
 <img src = "github_banner.png" width="100%" title="Intro Card">
 
 ## About Me 👦
-I'm currently a **third-year undergraduate student** studying [Honors Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
+I'm currently a **third-year undergraduate student** studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Honors Management Engineering</a> at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
 
 In the past, I've worked with:
-* [Intact](https://www.intactfc.com/) - **Data Scientist Intern** *(Sep - Dec 2020)*
-* [Manulife](https://www.manulife.ca/personal.html) - **Data Engineering Intern** *(Jan - Apr 2020)*
-* [Manulife](https://www.manulife.ca/personal.html) - **Technical Systems Analyst** *(May - Aug 2019)*
-* [KPMG](https://home.kpmg/xx/en/home.html) - **Data Analytics Consulting Intern** *(Mar - Apr 2019)*
+* <a href="https://www.intactfc.com/" target="_blank">Intact</a> - **Data Scientist Intern** *(Sep - Dec 2020)*
+* <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **Data Engineering Intern** *(Jan - Apr 2020)*
+* <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **Technical Systems Analyst** *(May - Aug 2019)*
+* <a href="https://home.kpmg/xx/en/home.html" target="_blank">KPMG</a> - **Data Analytics Consulting Intern** *(Mar - Apr 2019)*
 
 ## Current Status ⌚
-* 🔭 I’m working on [Global Spark](https://globalspark.world/#/) as a **Data Engineer** and taking university courses in [Data Mining](https://uwaterloo.ca/management-sciences/msci-446-data-mining)
+* 🔭 I’m working on <a href="https://globalspark.world/#/" target="_blank">Global Spark</a> as a **Data Engineer** and taking university courses in <a href="https://uwaterloo.ca/management-sciences/msci-446-data-mining" target="_blank">Data Mining</a>
 * 🌱 I’m learning more about **NLP** and its growing industry applications
 * 👯 I’m looking to collaborate on compelling projects within the **ML/DS space**
 * 🤔 I’m seeking future **internship opportunities** where I can apply my acquired arsenal of skills
 * 💬 Ask me about my past experiences and projects
 * 📫 How to reach me: aashan.meiyappan@uwaterloo.ca
-* 📝 Check out my [resume](https://drive.google.com/file/d/1IijrNCfLWs_kp2SOC-XBsAPBTg2HumrA/view?usp=sharing) for more info
+* 📝 Check out my <a href="https://drive.google.com/file/d/1IijrNCfLWs_kp2SOC-XBsAPBTg2HumrA/view?usp=sharing" target="_blank">resume</a> for more info
 
 ## Social Media 📭
 I use LinkedIn for professional discussion:  
