@@ -18,11 +18,7 @@ In the past, I've worked with:
 * 🤔 I’m seeking future **internship opportunities** where I can apply my acquired arsenal of skills
 * 💬 Ask me about my past experiences and projects
 * 📫 How to reach me: aashan.meiyappan@uwaterloo.ca
-* 📝 Contact me for my resume or more info
-
-## Social Media 📭
-I use LinkedIn for professional discussion:  
-[![LinkedIn URL](https://img.shields.io/badge/-aashanm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashanm)](https://www.linkedin.com/in/aashanm/)
+* 📝 Contact me for my resume or more info [![LinkedIn URL](https://img.shields.io/badge/-aashanm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashanm)](https://www.linkedin.com/in/aashanm/)
 
 ## Random Joke :game_die:
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23fafaf2&qColor=%236a6a69&aColor=%23f6716f&borderColor=%239cb4ca&theme="random"&textColor=%234d9995&)
