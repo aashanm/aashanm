@@ -9,7 +9,7 @@ In the past, I've worked with:
 * <a href="https://www.intactfc.com/" target="_blank">Intact</a> - **Data Scientist Intern** *(Sep - Dec 2020)*
 * <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **Data Engineering Intern** *(Jan - Apr 2020)*
 * <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **Technical Systems Analyst** *(May - Aug 2019)*
-* <a href="https://home.kpmg/xx/en/home.html" target="_blank">KPMG</a> - **Data Analytics Consulting Intern** *(Mar - Apr 2019)*
+* <a href="https://home.kpmg/xx/en/home.html" target="_blank">KPMG</a> - **Data Analytics Consulting Intern** *(Jun - Jul 2019)*
 
 ## Current Status ⌚
 * 🔭 I’m working on <a href="https://globalspark.world/#/" target="_blank">Global Spark</a> as a **Data Engineer** and taking university courses in <a href="https://uwaterloo.ca/management-sciences/msci-446-data-mining" target="_blank">Data Mining</a>
