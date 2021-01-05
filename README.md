@@ -3,7 +3,7 @@
 <img src = "github_banner.png" width="100%" title="Intro Card">
 
 ## About Me 👦
-I'm currently a **third-year undergraduate student** studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Honors Management Engineering</a> at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
+I'm currently a **third-year undergraduate student** studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Honors Management Engineering</a> on track for an <a href="https://ugradcalendar.uwaterloo.ca/page/ENG-Artificial-Intelligence-Engineering-Option">Option in Artificial Intelligence</a> at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
 
 In the past, I've worked with:
 * <a href="https://www.intactfc.com/" target="_blank">Intact</a> - **Data Scientist Intern** *(Sep - Dec 2020)*
