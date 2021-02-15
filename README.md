@@ -12,7 +12,7 @@ In the past, I've worked with:
 * <a href="https://home.kpmg/xx/en/home.html" target="_blank">KPMG</a> - **Data Analytics Consulting Intern** *(Jun - Jul 2019)*
 
 ## Current Status ⌚
-* 😎 I'll soon be working at <a href="https://www.amazon.com/">Amazon</a> as a D**ata Engineer Intern** this Summer!
+* 😎 I'll soon be working at <a href="https://www.amazon.com/">Amazon</a> as a **Data Engineer Intern** this Summer!
 * 🔭 I’m working on <a href="https://globalspark.world/#/" target="_blank">Global Spark</a> as a **Data Engineer** and taking university courses in <a href="https://uwaterloo.ca/management-sciences/msci-446-data-mining" target="_blank">Data Mining</a>
 * 🌱 I’m learning more about **NLP** and its growing industry applications
 * 👯 I’m looking to collaborate on compelling projects within the **ML/DS space**
