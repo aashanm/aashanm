@@ -9,7 +9,6 @@ In the past, I've worked with:
 * <a href="https://www.intactfc.com/" target="_blank">Intact</a> - **Data Scientist Intern** *(Sep - Dec 2020)*
 * <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **Data Engineering Intern** *(Jan - Apr 2020)*
 * <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **Technical Systems Analyst** *(May - Aug 2019)*
-* <a href="https://home.kpmg/xx/en/home.html" target="_blank">KPMG</a> - **Data Analytics Consulting Intern** *(Jun - Jul 2019)*
 
 ## Current Status ⌚
 * 😎 I'll soon be working at <a href="https://www.amazon.com/">Amazon</a> as a **Data Engineer Intern** this Summer!
