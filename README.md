@@ -6,9 +6,9 @@
 I'm currently a **third-year undergraduate student** studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Honors Management Engineering</a> on track for an <a href="https://ugradcalendar.uwaterloo.ca/page/ENG-Artificial-Intelligence-Engineering-Option">Option in Artificial Intelligence</a> at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
 
 In the past, I've worked with:
-* <a href="https://www.intactfc.com/" target="_blank">Intact</a> - **Data Scientist Intern** *(Sep - Dec 2020)*
-* <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **Data Engineering Intern** *(Jan - Apr 2020)*
-* <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **Technical Systems Analyst** *(May - Aug 2019)*
+* <a href="https://www.intactfc.com/" target="_blank">Intact</a> - **Data Science Intern** *(Sep - Dec 2020)*
+* <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **Data Engineer Co-op** *(Jan - Apr 2020)*
+* <a href="https://www.manulife.ca/personal.html" target="_blank">Manulife</a> - **SharePoint Platform Analyst Co-op** *(May - Aug 2019)*
 
 ## Current Status ⌚
 * 😎 I'll soon be working at <a href="https://www.amazon.com/">Amazon</a> as a **Data Engineer Intern** this Summer!
