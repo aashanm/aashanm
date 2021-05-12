@@ -3,7 +3,7 @@
 <img src = "github_banner.png" width="100%" title="Intro Card">
 
 ## About Me :sparkles:
-I'm currently a **third-year undergraduate student** studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Honors Management Engineering</a> on track for an <a href="https://ugradcalendar.uwaterloo.ca/page/ENG-Artificial-Intelligence-Engineering-Option">Option in Artificial Intelligence</a> at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
+I'm currently a **third-year undergraduate student** studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Honors Management Engineering</a> at the **University of Waterloo** with great interests in the vast realm of **big data**. 💻 🌍
 
 In the past, I've worked with:
 * <a href="https://www.intactfc.com/" target="_blank">Intact</a> - **Data Science Intern** *(Sep - Dec 2020)*
@@ -12,9 +12,8 @@ In the past, I've worked with:
 
 ## Current Status ⌚
 * 😎 I'll soon be working at <a href="https://www.amazon.com/">Amazon</a> as a **Data Engineer Intern** this Summer!
-* 🔭 I’m working on <a href="https://globalspark.world/#/" target="_blank">Global Spark</a> as a **Data Engineer** and taking university courses in <a href="https://uwaterloo.ca/management-sciences/msci-446-data-mining" target="_blank">Data Mining</a>
-* 🌱 I’m learning more about **NLP** and its growing industry applications
-* 👯 I’m looking to collaborate on compelling projects within the **ML/DS space**
+* 🌱 I’m learning more about **distributed computing** and its growing industry applications
+* 👯 I’m looking to collaborate on compelling projects surrounding **scalable data pipelines**
 * 💬 Ask me about my past experiences and projects
 * 📫 How to reach me: aashan.meiyappan@uwaterloo.ca
 * 📝 Contact me for my resume or more info: [![LinkedIn URL](https://img.shields.io/badge/-aashanm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashanm)](https://www.linkedin.com/in/aashanm/)
