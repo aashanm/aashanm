@@ -2,6 +2,8 @@
 
 <img src = "github_banner.png" width="100%" title="Intro Card">
 
+---
+
 
 ## About Me
 
@@ -42,16 +44,10 @@ I love solving complex problems at the intersection of **data engineering, optim
 
 ---
 
-## Connect
-
-- 📧 **Email:** aashan5050@gmail.com
-- 💼 **LinkedIn:** [@aashanm](https://www.linkedin.com/in/aashanm/)
-
----
-
 ## Random Joke 🎲
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23fafaf2&qColor=%236a6a69&aColor=%23f6716f&borderColor=%239cb4ca&theme=random&textColor=%234d9995)
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23fafaf2&qColor=%236a6a69&aColor=%23f6716f&borderColor=%239cb4ca&theme=random&textColor=%234d9995" width="900"/> 
+
 
 ---
 
@@ -83,6 +79,15 @@ I love solving complex problems at the intersection of **data engineering, optim
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white)
 
+</div align="center">
+
+
+--- 
+
+## Connect
+
+- 📧 **Email:** aashan5050@gmail.com
+- 💼 **LinkedIn:** [@aashanm](https://www.linkedin.com/in/aashanm/)
 
 
 
